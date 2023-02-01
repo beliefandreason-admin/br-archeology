@@ -1,0 +1,11 @@
+name: archeology
+title: Archeology
+version: 2023.01
+start_page: archeology-intro.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+
+nav:
+- modules/ROOT/nav.adoc
